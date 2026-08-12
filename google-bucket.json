@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "autowhat-attendance-406711",
+  "private_key_id": "5618203eed1f6d04a9b812f263c57c1469ac75c0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC7N3Dvs/D1KIqp\nOazNtiMLm3xoqbIAINosm0xF+BZxcbukUzLHEFjH6w6S2xhxr/CzmgC4EPL31eVS\neuciqB++S7ofxDsz+/xrpmFJWermY9F/0DTvXdVrWQ9MPMBe38EggJiQwBv0YfAo\n348S4hXQmPoCtMKi353Z6MmMR2Pb6DmIwSqjmCAMxzIrCO7FRzg74k5rb/QdDVUS\nIiNtNeGh5vBlsy80yisB3J7PxyLdzg3lFxhBdK2Aieg7HO3DLIS1bbZaU3yLEEk+\ncOuatS56dOC3hJ9pKIhONOG2pgtt+3qpXHzAcv1dutsQOnowfmeiVRbbTTyMZnGz\nH6ptxmqDAgMBAAECggEAMITTQ4P+UALkQKweUSfBWFpA+Tz1URwyfrn2n/GGG3tu\ntk0LjVR6tcEAw2V9pcUDnAAu7IUT+s/XwTLx4OTyaRZmE6J+9194UQvLDb/8ZR38\nZuP2PAy06T+o+8iI0G2rtvks0OLAu+p/24/om+u03J0wue/Pu3c5iQZP6Yd85ToN\n5FpHROPnJoq/ori5BwG6aK2VqHlKr7AeGM8TLJEFtRht0UhKZbGakyAB2TneA6rF\niuEdTY5geD2RqmG2mOC6JREAtVFj96lJz7oiVyiVKVFfT2lHR7IAVKsYFEisJv34\ngMt9bcsTm6hMgPqASV15o9yYdpqhEQJmygTNSIwAYQKBgQDfOKaHb2Z7P6EskAYQ\njADd475eD2EnQhwD+XT+752VjgNv18x2cWCUmQJuxxz3s5fczErycVfvyEoyP7eU\nt2GOWxCbtQjoPnmCfsMcRNcB+IclOa0F0D7uVovh6gkh3jzMSMx/T2qYfSwk6mcQ\n0/I3o28e1Iy3huFRnT69ehAcYQKBgQDWtUx3MH+g68cKGPt4oZSmDDR0EBPoS49u\nZgigMGPoiWRxFi+OpK3x8wlODB7hIL/U0BPWbkIqd23AXiVIPw6pEGC1twXQXr9f\n7lY+rAviVkFgK49JVhdxuojUpAyCthw2y4R6jfyzAJaL/FDfIg34QJS85rbB72yT\nPbbLEEkRYwKBgHfF8O0I5EdLjBLaMLbeOHTXB8V2oR2shlXHm3RTZA3kRonTk/0V\ntsnlE/4Wzr9GWTz7TVerY5Dgupcdw0aD40+8Izw5Nk9Pfml71PstIOUI0pMx0Fon\nNC00uRf+OOo4Ug0XHstM9JhfybkBIU5RO02JX01+pQaw0+Oz6P9IKK7hAoGBAKKt\nNOVtqpXLbsA403e/vTfeMXPqppqvfVohFtIAOAJ87sw8CgZiwaR7BwbKai8auB3P\nFei3G4y/djl1W3wUws/Xp96mcFJDJ27QzymnA04XGmt6NZNUFmlF8txh+1SiFFhz\n9MlCgT9C583ie4fEbp80lz1U9Q2VkUcyUCglC6ePAoGAUYicsbWRGPduA07uaobj\nkKOyNMF9nihFSwnq3t6Sqe1eYcJnFgmd/KyjSDGGt9JQi4dbpoP1QrhZxjZiCiuc\nhiyHGP2T9PrMnEEBLeRQ31/EOj3yPQkOiIthb4PE6MU1zvzem+z7seBew3Eb/qdD\ndj2ARY5OZ2Inb9zS2wkMDro=\n-----END PRIVATE KEY-----\n",
+  "client_email": "autowhat-attendance@autowhat-attendance-406711.iam.gserviceaccount.com",
+  "client_id": "106603084887416458308",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/autowhat-attendance%40autowhat-attendance-406711.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
